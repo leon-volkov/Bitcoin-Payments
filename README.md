@@ -138,7 +138,7 @@ All the new funtionality will be created as an API level, we don't want to fork 
 
 ## Inspired by
 
-https://github.com/OpenBazaar/spvwallet
+https://github.com/OpenBazaar/spvwallet test
 
 https://commerce.coinbase.com/docs/
 
